@@ -21,5 +21,5 @@ A simple note taking app that allows the student tracker their study hours.
 1. Go to http://localhost/phpmyadmin/
 2. Create Database -> student
 3. Create two tables -> student_tbl | subjects
-4. student_tbl has 5 columns (id time_in time_out	total_time	subject_name	subject_code notes)
-5. subjects (subject_code	subject_name	subject_id)
+4. student_tbl has 5 columns `(id time_in time_out	total_time	subject_name	subject_code notes)`
+5. subjects `(subject_code	subject_name	subject_id)`
