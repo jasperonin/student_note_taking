@@ -1,1 +1,2 @@
-# student_note_taking
+## Student note taking app
+
